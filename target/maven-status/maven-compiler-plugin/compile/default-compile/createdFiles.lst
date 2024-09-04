@@ -1,0 +1,4 @@
+com\example\airplane_shop\MiniSpringbootProjectApplication.class
+com\example\airplane_shop\repository\ProductRepository.class
+com\example\airplane_shop\model\Product.class
+com\example\airplane_shop\controller\ProductController.class
